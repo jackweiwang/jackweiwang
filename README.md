@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackweiwang
 - 👀 I’m interested in mechine learning cv, Recommendation system.
-- 🌱 I’m currently learning Recommendation and 3d reconstruction.
-- 📫 How to reach me my email 454940304@qq.com
+- 🌱 Current job perception algorithm, face emotion,hands gesture.
+- 📫 How to reach me my email w454940304@outlook.com
 
 <!---
 jackweiwang/jackweiwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
