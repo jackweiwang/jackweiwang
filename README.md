@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackweiwang
-- 👀 I’m interested in mechinelearning and deeplearning and cv.
+- 👀 I’m interested in mechine learning and deep learning and cv.
 - 🌱 Current job perception algorithm, face emotion,hands gesture.
 - 📫 How to reach me my email w454940304@outlook.com
 
